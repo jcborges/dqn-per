@@ -1,0 +1,7 @@
+.ipynb_checkpoints
+.idea
+.vid
+.vid2
+*.h5
+*.ipynb
+!CartPole-Example.ipynb
